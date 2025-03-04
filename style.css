@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins;
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+}
+h2{
+    color:#b4b4b4;
+    text-align: center;
+
+}
+.boxc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    background-color: bisque;
+    color: blue;
+    gap: 40px;
+}
